@@ -2,6 +2,8 @@
 
 [Explore the interactive map](https://jonathandoanephd.github.io/who-raised-you-up/)
 
+
+[![Who raised you up? Census map of family structure across America](thumbnail.png)](https://jonathandoanephd.github.io/who-raised-you-up/)
 A Census data project by Jonathan Doane. Compare family structure across all 50 states and Washington, D.C., and read stories about the people who helped others find their footing.
 
 Select a state or an estimate range to explore the map. The orange star marks Jonathan’s New York story.
